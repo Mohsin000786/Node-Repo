@@ -1,0 +1,19 @@
+[
+    {
+        "username": "Shubham Raj",
+        "roles": {
+            "User": 2001
+        },
+        "pwd": "$2b$10$.nLn9KG84A2FPPOLxSLRN.e1qPQoI0lO/nvnXogj5J3VgOCuqR0hu"
+    },
+    {
+        "username": "Sheikh Mohsin",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984,
+            "Admin": 5150
+        },
+        "pwd": "$2b$10$kRM96IxdCkGVWpAx0eRMVeiMRh3NsBSgKleEncY.onY41LzSnID9e",
+        "refreshToken": ""
+    }
+]

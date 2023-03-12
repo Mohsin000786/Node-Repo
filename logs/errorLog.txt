@@ -1,0 +1,4 @@
+20221222	14:26:32	89df3fe3-d26d-4f77-a638-b6eed17e3c20	TypeError: fsPromises.readFie is not a function
+20221223	19:50:20	0cb8d56c-ec2f-4089-8167-525dedba8547	Error Not allowed by CORS
+20221226	12:29:24	874a067a-3f21-41a6-a7fc-684bebc6533f	SyntaxError: Unexpected token } in JSON at position 34
+20221226	12:30:32	a2b2d27c-06bc-4599-b503-0354d0a5b25f	SyntaxError: Unexpected token } in JSON at position 13
